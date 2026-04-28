@@ -1,2 +1,2 @@
 # payexpress-frontend
-A front-end application to request and consume response data from the payexpress backend API.Built using React.
+A modern front-end application built with React that integrates with the PayExpress backend API. It handles API requests and efficiently displays response data, providing a smooth and responsive user experience.
